@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">A1100984638</string>
+
+    <string name="btnEnter">Enter</string>
+    <string name="btnNext">Next</string>
+    <string name="btnOrder">Order</string>
+    <string name="btnConfirm">Confirm</string>
+
+    <string name="typeOfCuisine">Type of Cuisine</string>
+    <string name="cuisineInstruction">Please select the type of cuisine and click Next.</string>
+    <string name="Mexican">Mexican</string>
+    <string name="Caribbean">Caribbean</string>
+    <string name="Greek">Greek</string>
+    <string name="Italian">Italian</string>
+    <string name="Japanese">Japanese</string>
+
+    <string name="Restaurant">Restaurant</string>
+    <string name="restaurantInstruction">Please select a restaurant and click Next.</string>
+
+    <string name="menuInstruction">Please select your order.</string>
+
+    <string name="Customer">Customer Information</string>
+    <string name="customerInstruction">Please input following form and click Order.</string>
+    <string name="fName">First Name:</string>
+    <string name="lName">Last Name:</string>
+    <string name="address">Address:</string>
+    <string name="postalCode">Postal Code:</string>
+    <string name="creditCard">Credit Card Number:</string>
+    <string name="surveyInstruction">Answer us!</string>
+    <string name="q1">What is your favorite cuisine?</string>
+    <string name="q2">Could you recommend a good restaurant?</string>
+
+    <string name="CheckOut">Checkout</string>
+    <string name="checkoutInstruction">Please check your order and click Confirm.</string>
+    <string name="YourOrder">Your order:</string>
+    <string name="CustInfo">Customer Information:</string>
+
+
+</resources>
